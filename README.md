@@ -4,5 +4,5 @@ Complete paper and code list for image forgery(and deepfake).没有代码的文�
 # backbone
 :white_check_mark:Hierarchical Fine-Grained Image Forgery Detection and Localization github.com/CHELSEA234/HiFi-IFDL
 # paper without code(or uncomplete code)
-ANewMethodtoDetectSplicing Image Forgery Using
+:negative_squared_cross_mark:ANewMethodtoDetectSplicing Image Forgery Using
  Convolutional Neural Network
