@@ -6,3 +6,4 @@ Complete paper and code list for image forgery(and deepfake).没有代码的文�
 # paper without code(or uncomplete code)
 :negative_squared_cross_mark:ANewMethodtoDetectSplicing Image Forgery Using
  Convolutional Neural Network
+:negative_squared_cross_mark:A new method to detect splicing image forgery using convolutional neural network
