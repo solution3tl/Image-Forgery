@@ -10,6 +10,8 @@ Some papers may not be from top conferences, and might even come from SCI Q3 or 
 :white_check_mark:MiniNet: a concise CNN for image forgery detection   [[paper]](https://github.com/solution3tl/Image-Forgery/blob/main/image%20editing/MiniNet%20a%20concise%20CNN%20for%20image%20forgery%20detection.pdf)[[code]](https://github.com/shobhittya/MiniNet)
 
 :white_check_mark:Image Forgery Detection through Error Level Analysis and Convolutional Neural Networks   [[paper-None]]()[[code]](https://github.com/Khizar-Baig/Image-Forgery-Detection-using-ELA-and-CNNs)
+
+ForensicNet: Modern convolutional neural network-basedimage forgery detection network
 # CNNS
 :white_check_mark:Interpretable-through-prototypes deepfake detection for diffusion models  [[paper]](https://github.com/solution3tl/Image-Forgery/blob/main/CNNs/Aghasanli_Interpretable-Through-Prototypes_Deepfake_Detection_for_Diffusion_Models_ICCVW_2023_paper.pdf)[[code]](https://github.com/lira-centre/DeepfakeDetection)
 
