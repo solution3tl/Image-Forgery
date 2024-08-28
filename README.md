@@ -7,8 +7,9 @@ Some papers may not be from top conferences, and might even come from SCI Q3 or 
 
 :sparkles:**CNNS:** Midjourney, Stable Diffusion, ADM, GLIDE, Wukong, VQDM, BigGAN, omost...
 # image-editing
-:white_check_mark:Hierarchical Fine-Grained Image Forgery Detection and Localization   [[paper]](https://github.com/solution3tl/Image-Forgery/blob/main/image%20editing/MiniNet%20a%20concise%20CNN%20for%20image%20forgery%20detection.pdf)[[code]](https://github.com/shobhittya/MiniNet)
+:white_check_mark:MiniNet: a concise CNN for image forgery detection   [[paper]](https://github.com/solution3tl/Image-Forgery/blob/main/image%20editing/MiniNet%20a%20concise%20CNN%20for%20image%20forgery%20detection.pdf)[[code]](https://github.com/shobhittya/MiniNet)
 
+:white_check_mark:Image Forgery Detection through Error Level Analysis and Convolutional Neural Networks   [[paper-None]]()[[code]](https://github.com/Khizar-Baig/Image-Forgery-Detection-using-ELA-and-CNNs)
 # CNNS
 # both image-editing and CNNs
 :white_check_mark:Hierarchical Fine-Grained Image Forgery Detection and Localization   [[paper]](https://github.com/solution3tl/Image-Forgery/blob/main/Both%20image%20editing%20and%20CNNs/Hierarchical%20Fine-Grained%20Image%20Forgery%20Detection%20and%20Localization.pdf)[[code]](https://github.com/CHELSEA234/HiFi-IFDL)
