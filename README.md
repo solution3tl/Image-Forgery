@@ -11,6 +11,8 @@ Some papers may not be from top conferences, and might even come from SCI Q3 or 
 
 :white_check_mark:Image Forgery Detection through Error Level Analysis and Convolutional Neural Networks   [[paper-None]]()[[code]](https://github.com/Khizar-Baig/Image-Forgery-Detection-using-ELA-and-CNNs)
 # CNNS
+:white_check_mark:Interpretable-through-prototypes deepfake detection for diffusion models  [[paper]](https://github.com/solution3tl/Image-Forgery/blob/main/CNNs/Aghasanli_Interpretable-Through-Prototypes_Deepfake_Detection_for_Diffusion_Models_ICCVW_2023_paper.pdf)[[code]](https://github.com/lira-centre/DeepfakeDetection)
+
 # both image-editing and CNNs
 :white_check_mark:Hierarchical Fine-Grained Image Forgery Detection and Localization   [[paper]](https://github.com/solution3tl/Image-Forgery/blob/main/Both%20image%20editing%20and%20CNNs/Hierarchical%20Fine-Grained%20Image%20Forgery%20Detection%20and%20Localization.pdf)[[code]](https://github.com/CHELSEA234/HiFi-IFDL)
 # paper without code(or uncomplete code)
