@@ -13,7 +13,7 @@ Some papers may not be from top conferences, and might even come from SCI Q3 or 
 
 ForensicNet: Modern convolutional neural network-basedimage forgery detection network
 
-Digital-Image-Forgery-Detection-using-Transfer-Learning [[code]](https://github.com/harinishreesk/Digital-Image-Forgery-Detection-using-Transfer-Learning) :ledger:ELA/SRM/PCA_VGG/Densenet/MobileNet_/_e2e
+:black_square_button:Digital-Image-Forgery-Detection-using-Transfer-Learning [[code]](https://github.com/harinishreesk/Digital-Image-Forgery-Detection-using-Transfer-Learning) :ledger:ELA/SRM/PCA_VGG/Densenet/MobileNet_/_e2e
 
 Image Forgery Detection Using Deep Learning by Recompressing Images[[code]](https://github.com/sadaf-ali/Image-forgery-detection-using-deeplearning-by-recompressing-the-images)
 :ledger:ELA_conv2D_/_e2e
