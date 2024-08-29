@@ -12,6 +12,8 @@ Some papers may not be from top conferences, and might even come from SCI Q3 or 
 :white_check_mark:Image Forgery Detection through Error Level Analysis and Convolutional Neural Networks   [[paper-None]]()[[code]](https://github.com/Khizar-Baig/Image-Forgery-Detection-using-ELA-and-CNNs)
 
 ForensicNet: Modern convolutional neural network-basedimage forgery detection network
+
+Digital-Image-Forgery-Detection-using-Transfer-Learning [[code]](https://github.com/harinishreesk/Digital-Image-Forgery-Detection-using-Transfer-Learning)
 # CNNS
 :white_check_mark:Interpretable-through-prototypes deepfake detection for diffusion models  [[paper]](https://github.com/solution3tl/Image-Forgery/blob/main/CNNs/Aghasanli_Interpretable-Through-Prototypes_Deepfake_Detection_for_Diffusion_Models_ICCVW_2023_paper.pdf)[[code]](https://github.com/lira-centre/DeepfakeDetection)
 
@@ -21,3 +23,5 @@ ForensicNet: Modern convolutional neural network-basedimage forgery detection ne
 :negative_squared_cross_mark:A new method to detect splicing image forgery using convolutional neural network
 
 :negative_squared_cross_mark:Performance analysis of ELA-CNN model for image forgery detection
+
+:negative_squared_cross_mark:Enhancing copy-move forgery detection through a novel CNN architecture and comprehensive dataset analysis
