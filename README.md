@@ -11,6 +11,8 @@ Some papers may not be from top conferences, and might even come from SCI Q3 or 
 
 :white_check_mark:Image Forgery Detection through Error Level Analysis and Convolutional Neural Networks   [[paper-None]]()[[code]](https://github.com/Khizar-Baig/Image-Forgery-Detection-using-ELA-and-CNNs)
 
+:white_check_mark:Shrinking the Semantic Gap: Spatial Pooling of Local Moment Invariants for Copy-Move Forgery Detection   [[paper-None]]()[[code]](https://github.com/ChaoWang1016/word2phraseCMFD)
+
 ForensicNet: Modern convolutional neural network-basedimage forgery detection network
 
 :black_square_button:Digital-Image-Forgery-Detection-using-Transfer-Learning [[code]](https://github.com/harinishreesk/Digital-Image-Forgery-Detection-using-Transfer-Learning) :ledger:ELA/SRM/PCA_VGG/Densenet/MobileNet_/_e2e
