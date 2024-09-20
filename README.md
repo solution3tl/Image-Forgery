@@ -13,7 +13,7 @@ Some papers may not be from top conferences, and might even come from SCI Q3 or 
 
 :white_check_mark:Shrinking the Semantic Gap: Spatial Pooling of Local Moment Invariants for Copy-Move Forgery Detection   [[paper]](https://github.com/solution3tl/Image-Forgery/blob/main/image%20editing/Shrinking%20the%20Semantic%20Gap.pdf)[[code]](https://github.com/ChaoWang1016/word2phraseCMFD)
 
-:white_check_mark:IMAGE SPLICING DETECTION THROUGH ILLUMINATION INCONSISTENCIES AND DEEP LEARNING   (note:Tough No code,and the performance was bad reproduced by me，I thought of new attention from this method, and it worked better)
+:white_check_mark:IMAGE SPLICING DETECTION THROUGH ILLUMINATION INCONSISTENCIES AND DEEP LEARNING   (note:Though No code,and the performance was bad reproduced by me，I thought of new attention from this method, and it worked better)
 
 ForensicNet: Modern convolutional neural network-basedimage forgery detection network
 
